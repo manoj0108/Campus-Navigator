@@ -14,6 +14,7 @@ transmitted by the RF transmitters placed at every block in the campus. The user
 of the transmitter signals, the code encoded in that signal is decoded by the decoder IC and sent to the Arduino board. The Arduino board processes the data bits received and
 the user location which is decoded will be displayed over the LCD screen.The receiver module with the user then asks for the destination location information in the form of digits. Based on the current location and user input on the destination, the Arduino board estimates the shortest path to the destination. This information is displayed on the LCD screen.
 
+![image_2021-11-10_12-36-05](https://user-images.githubusercontent.com/69961625/141065994-3853003e-2866-4b93-9fcb-a4038430349b.png)
 
 
 Above Figure depicts the overall working of the system, Campus Navigator.It shows how a person who wants to navigate to other location inside the campus uses the module.
