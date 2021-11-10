@@ -6,6 +6,7 @@ There will be navigators at some points inside the campus, but users do not have
 target destination as per the navigators available in the campus. However when they start walking towards their target direction, they have no help anymore and face many
 problems. The campus navigator will help in overcoming these problems and provide efficient path to the desired destination.
 
+![image_2021-11-10_12-31-14](https://user-images.githubusercontent.com/69961625/141065472-b7787780-368e-4663-a5ad-ae4fd80ed3d4.png)
 
 The system is mainly based on the transmission of the data between the RF transceiver modules. The encoder integrated circuit (IC) is coded with the data bits which has the
 location information of the transmitting building or block. The IC generates series of bits which has both security bits and the data bits. These series of bits are continuously
