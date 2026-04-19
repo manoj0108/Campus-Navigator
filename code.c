@@ -1,6 +1,8 @@
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
+// Adding a comment to test the commit functionality of git
+
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 int a,b,c,d;
